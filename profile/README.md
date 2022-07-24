@@ -11,7 +11,7 @@ Nous nous engageons à la protection de vos données, et à la simplification de
 ### Remerciements
 - Cod'ons :
     - Ezequiel
-    - Matthéo alias *Mapoto40* ou *le criquet*
+    - Mattéo alias *Mapoto40* ou *le criquet*
 <br><br>
 - Wikijap :
     - Thibault alias *Samaël*
